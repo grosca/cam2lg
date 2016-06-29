@@ -1,0 +1,356 @@
+--------- beginning of main
+E/XTCC-5.0.1.0(  600): [CSMgr] timerCallback failed, result = -1
+--------- beginning of system
+V/WindowOrientationListener( 3080): Proposed rotation changed! : currentRotation=0, proposedRotation=3, oldProposedRotation=-1, predictedRotation=3, timeDeltaMS=66.65039, isAccelerating=false, isFlat=false, isSwinging=false, isOverhead=false, timeUntilSettledMS=0.0, timeUntilAccelerationDelayExpiredMS=0.0, timeUntilFlatDelayExpiredMS=0.0, timeUntilSwingDelayExpiredMS=0.0
+D/InputDispatcher( 3080): setInputDispatchMode: enabled=1, frozen=1
+E/SurfaceFlinger(  446): [Layer::Layer] ScreenshotSurface : layerFlags = 0x4
+V/ActivityManager( 3080): Display changed displayId=0
+I/InputReader( 3080): Reconfiguring input devices.  changes=0x00000004
+I/InputReader( 3080): Device reconfigured: id=4, name='touch_dev', size 1440x2720, orientation 3, mode 1, display id 0
+I/ActivityManager( 3080): Config changes=480 {1.0 ?mcc?mnc en_US ldltr sw360dp w598dp h335dp 640dpi nrml land finger -keyb/v/h -nav/h s.73fontTypeIndex0 defclr=0xff000000}
+D/WidgetPagedView( 4650): dispatchDraw scrollX : 0 , maxScroll : 2280 , last child Offset : 2280 , ROffset : 0
+D/LGNetworkSettings( 5165): onConfigurationChanged called
+D/Tethering( 3080): upstreamIface add type 0
+D/Tethering( 3080): upstreamIface add type 1
+D/Tethering( 3080): upstreamIface add type 4
+D/Tethering( 3080): upstreamIface add type 5
+D/Tethering( 3080): upstreamIface add type 7
+D/Tethering( 3080): upstreamIface add type 9
+D/Tethering( 3080): upstreamIface add type 18
+D/Tethering( 3080): checkDunRequired: secureSetting is 2
+D/WfdStateTracker( 5064): handleConfiturationChangedEvent
+D/UinputSourceController( 5064): handleScreenOrientationChange
+I/Cliptray Service( 5064): cliptrayEventReceiver :onReceiveandroid.intent.action.CONFIGURATION_CHANGED
+I/WeatherService(10177): onReceive, action: android.intent.action.CONFIGURATION_CHANGED, Time(hour:min:sec) 14:16:36
+I/WeatherService(10177): onReceive ACTION_CONFIGURATION_CHANGED: 
+I/WeatherService(10177): isOrientatioinChanged=true
+I/WeatherService(10177): Ignore requestRefreshAppWidget
+I/WeatherService(10177): onReceive has processed, action: android.intent.action.CONFIGURATION_CHANGED, Time(hour:min:sec) 14:16:36
+D/WidgetPagedView( 4650): PagedView.onMeasure(): 1040, 160
+D/WidgetPagedView( 4650): PagedView.scaledSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.parentSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.horizontalPadding: 0
+D/WidgetPagedView( 4650): PagedView.verticalPadding: 0
+D/WidgetPagedView( 4650): getRelativeChildOffset(): 1040, 1040
+D/WidgetPagedView( 4650): PagedView.onMeasure(): 1040, 160
+D/WidgetPagedView( 4650): PagedView.scaledSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.parentSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.horizontalPadding: 0
+D/WidgetPagedView( 4650): PagedView.verticalPadding: 0
+I/[LGHome]EVENT(15368): [LauncherModel.java:213:onReceive()]onReceive intent=Intent { act=android.intent.action.CONFIGURATION_CHANGED flg=0x70000010 }
+D/WidgetPagedView( 4650): getRelativeChildOffset(): 1040, 1040
+I/[LGHome]EVENT(15368): [LauncherModel.java:229:onReceive()]Configuration Changed: {1.0 ?mcc?mnc en_US ldltr sw360dp w598dp h335dp 640dpi nrml land finger -keyb/v/h -nav/h s.73fontTypeIndex0 defclr=0xff000000}
+I/[LGHome]EVENT(15368): [LauncherModel.java:234:onReceive()]Previous Configuration: {1.0 ?mcc?mnc en_US ldltr sw360dp w360dp h573dp 640dpi nrml port finger -keyb/v/h -nav/h s.72fontTypeIndex0 defclr=0xff000000}
+D/StatusBarKeyguardViewManager( 4635): onConfigurationChanged() new Orientation : 2
+D/WidgetPagedView( 4650): PagedView.onLayout()
+D/WidgetPagedView( 4650): 	layout-child0: 260, 440
+D/WidgetPagedView( 4650): 	layout-child1: 1400, 440
+D/WidgetPagedView( 4650): 	layout-child2: 2540, 440
+D/WidgetPagedView( 4650): dispatchDraw scrollX : 0 , maxScroll : 2280 , last child Offset : 2280 , ROffset : 0
+I/ViewRootImpl( 4635): CPU Rendering VSync enable = true
+D/SplitWindow( 3080): check instance of lgWin Window{2e431142 u0 SearchPanel}
+I/[SystemUI]NetworkController( 4635): onReceive: intent=Intent { act=android.intent.action.CONFIGURATION_CHANGED flg=0x70000010 }
+I/[SystemUI]Clock( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+D/BubblePopupHelper( 7730): isShowingBubblePopup : false
+D/BubblePopupHelper( 7730): isShowingBubblePopup : false
+I/[SystemUI]QSlide( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+D/sensors_hal_LP2( 3080): processInd: X: -8.909134 Y: -1.718567 Z: 4.114029 
+I/Timeline( 3080): Timeline: Activity_windows_visible id: ActivityRecord{2f717173 u0 com.philips.codedlight.linerate/.MainActivity t49} time:12432758
+I/[SystemUI]BrightnessSlider( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+D/BarTransitions( 4635): draw background and invalidate : color = ff000000
+I/WindowManager( 3080): Screen frozen for +289ms due to Window{14785cd9 u0 StatusBar}
+D/InputDispatcher( 3080): setInputDispatchMode: enabled=1, frozen=0
+D/PowerManagerServiceEx( 3080): updateWakeLockSummaryLocked: checkScreenWakelockList : mWakefulness=Awake, mWakeLockSummary=0x0
+D/DisplayManagerServiceEx( 3080): updateExtWakelockEnabled
+D/InputDispatcher( 3080): Window went away: Window{398415a3 u0 SearchPanel}
+D/LgeClockView( 4635): java.util.GregorianCalendar[time=1466597796376,areFieldsSet=true,lenient=true,zone=Europe/Amsterdam,firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2016,MONTH=5,WEEK_OF_YEAR=26,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=174,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=2,HOUR_OF_DAY=14,MINUTE=16,SECOND=36,MILLISECOND=376,ZONE_OFFSET=3600000,DST_OFFSET=3600000]
+D/LgeClockView( 4635): java.util.GregorianCalendar[time=1466597796379,areFieldsSet=true,lenient=true,zone=Europe/Amsterdam,firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2016,MONTH=5,WEEK_OF_YEAR=26,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=174,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=2,HOUR_OF_DAY=14,MINUTE=16,SECOND=36,MILLISECOND=379,ZONE_OFFSET=3600000,DST_OFFSET=3600000]
+D/LgeClockView( 4635): java.util.GregorianCalendar[time=1466597796379,areFieldsSet=true,lenient=true,zone=Europe/Amsterdam,firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2016,MONTH=5,WEEK_OF_YEAR=26,WEEK_OF_MONTH=4,DAY_OF_MONTH=22,DAY_OF_YEAR=174,DAY_OF_WEEK=4,DAY_OF_WEEK_IN_MONTH=4,AM_PM=1,HOUR=2,HOUR_OF_DAY=14,MINUTE=16,SECOND=36,MILLISECOND=379,ZONE_OFFSET=3600000,DST_OFFSET=3600000]
+D/WifiNative-wlan0( 3080): doString: [SIGNAL_POLL]
+I/WindowManager( 3080): Rotation completion time: 758ms
+I/MSM-irqbalance(  837): Decided to move IRQ82 from CPU0 to CPU3
+D/LocationManagerService( 3080): incoming location: Location[network 52.370276,4.895165 acc=3 et=+2d0h32m42s520ms alt=14.155349731445313 vel=0.03614285 mock]
+D/LocationManagerService( 3080): incoming location: Location[network 52.370276,4.895165 acc=3 et=+2d0h32m42s520ms alt=14.155349731445313 vel=0.03614285 mock {Bundle[{noGPSLocation=Location[network 51.412759,5.460479 acc=20 et=+2d0h0m5s347ms {Bundle[{networkLocationType=wifi, coarseLocation=Location[network 51.405405,5.459079 acc=2000 et=+2d0h0m5s347ms], wifiScan=[B@18abc651, travelState=stationary, nlpVersion=2021}]}]}]}]
+V/Wiper   ( 3080): Passive listener onLocationChanged lat52.37027611341231lon4.895164537844966accuracy 3.1384768
+V/Wiper   ( 3080): Location is final
+D/NlpProxy( 3080): onLocationChanged: network
+D/LBSSystemMonitorService( 3080): handleMessage what - 7
+V/Wiper   ( 3080): handleMessage what - 6
+V/Wiper   ( 3080): handlePassiveLocationUpdate lat52.37027611341231lon4.895164537844966accuracy 3.1384768
+E/Wiper   ( 3080): locationSource is null
+D/Wiper_jni( 3080): Send Passive Location.
+D/LocationManagerService( 3080): incoming location: Location[gps 52.370250,4.895278 acc=5 et=+2d0h32m42s523ms alt=13.629316329956055 vel=0.0813036 mock]
+D/LocationManagerService( 3080): incoming location: Location[gps 52.370250,4.895278 acc=5 et=+2d0h32m42s523ms alt=13.629316329956055 vel=0.0813036 mock]
+V/Wiper   ( 3080): Passive listener onLocationChanged lat52.370249508520615lon4.895278429911905accuracy 5.483877
+D/NlpProxy( 3080): onLocationChanged: gps
+D/PowerManagerServiceEx( 3080): updateWakeLockSummaryLocked: checkScreenWakelockList : mWakefulness=Awake, mWakeLockSummary=0x0
+D/DisplayManagerServiceEx( 3080): updateExtWakelockEnabled
+D/sensors_hal_LP2( 3080): processInd: X: -11.148346 Y: 3.767166 Z: 3.839691 
+D/sensors_hal_LP2( 3080): processInd: X: 2.087387 Y: 6.963013 Z: 9.816208 
+D/sensors_hal_LP2( 3080): processInd: X: -0.450272 Y: 7.388474 Z: 5.657730 
+D/InputDispatcher( 3080): setInputDispatchMode: enabled=1, frozen=1
+V/WindowOrientationListener( 3080): Proposed rotation changed! : currentRotation=3, proposedRotation=0, oldProposedRotation=-1, predictedRotation=0, timeDeltaMS=66.65039, isAccelerating=false, isFlat=false, isSwinging=false, isOverhead=false, timeUntilSettledMS=0.0, timeUntilAccelerationDelayExpiredMS=0.0, timeUntilFlatDelayExpiredMS=0.0, timeUntilSwingDelayExpiredMS=0.0
+E/SurfaceFlinger(  446): [Layer::Layer] ScreenshotSurface : layerFlags = 0x4
+V/ActivityManager( 3080): Display changed displayId=0
+I/ActivityManager( 3080): Config changes=480 {1.0 ?mcc?mnc en_US ldltr sw360dp w360dp h573dp 640dpi nrml port finger -keyb/v/h -nav/h s.74fontTypeIndex0 defclr=0xff000000}
+I/InputReader( 3080): Reconfiguring input devices.  changes=0x00000004
+I/InputReader( 3080): Device reconfigured: id=4, name='touch_dev', size 1440x2720, orientation 0, mode 1, display id 0
+D/LGNetworkSettings( 5165): onConfigurationChanged called
+D/Tethering( 3080): upstreamIface add type 0
+D/Tethering( 3080): upstreamIface add type 1
+D/Tethering( 3080): upstreamIface add type 4
+D/Tethering( 3080): upstreamIface add type 5
+D/Tethering( 3080): upstreamIface add type 7
+D/Tethering( 3080): upstreamIface add type 9
+D/Tethering( 3080): upstreamIface add type 18
+D/Tethering( 3080): checkDunRequired: secureSetting is 2
+D/WfdStateTracker( 5064): handleConfiturationChangedEvent
+D/UinputSourceController( 5064): handleScreenOrientationChange
+I/Cliptray Service( 5064): cliptrayEventReceiver :onReceiveandroid.intent.action.CONFIGURATION_CHANGED
+I/WeatherService(10177): onReceive, action: android.intent.action.CONFIGURATION_CHANGED, Time(hour:min:sec) 14:16:38
+I/WeatherService(10177): onReceive ACTION_CONFIGURATION_CHANGED: 
+I/WeatherService(10177): isOrientatioinChanged=true
+I/[LGHome]EVENT(15368): [LauncherModel.java:213:onReceive()]onReceive intent=Intent { act=android.intent.action.CONFIGURATION_CHANGED flg=0x70000010 }
+I/[LGHome]EVENT(15368): [LauncherModel.java:229:onReceive()]Configuration Changed: {1.0 ?mcc?mnc en_US ldltr sw360dp w360dp h573dp 640dpi nrml port finger -keyb/v/h -nav/h s.74fontTypeIndex0 defclr=0xff000000}
+I/[LGHome]EVENT(15368): [LauncherModel.java:234:onReceive()]Previous Configuration: {1.0 ?mcc?mnc en_US ldltr sw360dp w598dp h335dp 640dpi nrml land finger -keyb/v/h -nav/h s.73fontTypeIndex0 defclr=0xff000000}
+D/WidgetPagedView( 4650): PagedView.onMeasure(): 1040, 160
+D/WidgetPagedView( 4650): PagedView.scaledSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.parentSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.horizontalPadding: 0
+D/WidgetPagedView( 4650): PagedView.verticalPadding: 0
+D/WidgetPagedView( 4650): getRelativeChildOffset(): 1040, 1040
+D/WidgetPagedView( 4650): PagedView.onMeasure(): 1040, 160
+D/WidgetPagedView( 4650): PagedView.scaledSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.parentSize: 1560, 1040
+D/WidgetPagedView( 4650): PagedView.horizontalPadding: 0
+D/WidgetPagedView( 4650): PagedView.verticalPadding: 0
+D/WidgetPagedView( 4650): getRelativeChildOffset(): 1040, 1040
+I/WeatherService(10177): Ignore requestRefreshAppWidget
+I/WeatherService(10177): onReceive has processed, action: android.intent.action.CONFIGURATION_CHANGED, Time(hour:min:sec) 14:16:38
+D/StatusBarKeyguardViewManager( 4635): onConfigurationChanged() new Orientation : 1
+D/WidgetPagedView( 4650): PagedView.onLayout()
+D/WidgetPagedView( 4650): 	layout-child0: 260, 440
+D/WidgetPagedView( 4650): 	layout-child1: 1400, 440
+D/WidgetPagedView( 4650): 	layout-child2: 2540, 440
+D/WidgetPagedView( 4650): dispatchDraw scrollX : 0 , maxScroll : 2280 , last child Offset : 2280 , ROffset : 0
+I/ViewRootImpl( 4635): CPU Rendering VSync enable = true
+D/SplitWindow( 3080): check instance of lgWin Window{33c5869a u0 SearchPanel}
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=110 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=137 addr=0x7f9fc13000 type=8 bufsz=163840 AlignedBufSz=163840
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=1073742134
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=1073742134
+E/qdoverlay(  446): data msmfb_data offset=0 memid=45 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=110 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=137 addr=0x7f9fc13000 type=8 bufsz=163840 AlignedBufSz=163840
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=1073742134
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=1073742134
+E/qdoverlay(  446): data msmfb_data offset=0 memid=45 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+I/[SystemUI]NetworkController( 4635): onReceive: intent=Intent { act=android.intent.action.CONFIGURATION_CHANGED flg=0x70000010 }
+D/BubblePopupHelper( 7730): isShowingBubblePopup : false
+D/BubblePopupHelper( 7730): isShowingBubblePopup : false
+I/[SystemUI]Clock( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+I/[SystemUI]QSlide( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=134 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=134 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+I/Timeline( 3080): Timeline: Activity_windows_visible id: ActivityRecord{2f717173 u0 com.philips.codedlight.linerate/.MainActivity t49} time:12434725
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=76 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=141 addr=0x7f92750000 type=8 bufsz=9584640 AlignedBufSz=9584640
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=1073742133
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=1073742133
+E/qdoverlay(  446): data msmfb_data offset=0 memid=113 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=76 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=141 addr=0x7f92750000 type=8 bufsz=9584640 AlignedBufSz=9584640
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=1073742133
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=1073742133
+E/qdoverlay(  446): data msmfb_data offset=0 memid=113 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+I/[SystemUI]BrightnessSlider( 4635): onReceive = android.intent.action.CONFIGURATION_CHANGED
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=133 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=133 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=133 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=133 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=127 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=127 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=127 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+E/qdoverlay(  446): Failed to call ioctl MSMFB_OVERLAY_SET err=Value too large for defined data type
+E/qdoverlay(  446): MdssRot commit failed!
+E/qdoverlay(  446): == Dump MdssRot start ==
+E/qdoverlay(  446): == Dump OvFD fd=127 path=/dev/graphics/fb0 start/end ==
+E/qdoverlay(  446): == Dump OvMem start ==
+E/qdoverlay(  446): fd=-1 addr=0xffffffffffffffff type=0 bufsz=0 AlignedBufSz=0
+E/qdoverlay(  446): == Dump OvMem end ==
+E/qdoverlay(  446): mRotInfo mdp_overlay z=0 alpha=0 mask=0 flags=0x100084 id=-1
+E/qdoverlay(  446): src msmfb_img w=1664 h=160 format=13 MDP_RGBA_8888
+E/qdoverlay(  446): src_rect mdp_rect x=160 y=-160 w=0 h=0
+E/qdoverlay(  446): dst_rect mdp_rect x=0 y=0 w=0 h=0
+E/qdoverlay(  446): mRotData msmfb_overlay_data id=0
+E/qdoverlay(  446): data msmfb_data offset=0 memid=-1 id=0 flags=0x0 priv=0
+E/qdoverlay(  446): == Dump MdssRot end ==
+E/qdhwcomposer(  446): configure: configRotator failed!
+D/InputDispatcher( 3080): Window went away: Window{2e431142 u0 SearchPanel}
+I/WindowManager( 3080): Screen frozen for +301ms due to Window{5ffc29 u0 Status_Bar:com.android.systemui (0)}
